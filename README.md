@@ -13,3 +13,9 @@ the following quote:
 <ins>this will be underlined<ins>
 
 this will have a ~~strikethrough~~
+
+
+
+
+chart from other video lession 
+![This is a datawrapper chart](62xV4-backlogged-cases-in-the-u-s-immigration-court.png)
